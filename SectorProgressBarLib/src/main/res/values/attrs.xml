@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="SectorProgressBar">
+        <attr name="spbCenterForegroundImage" format="reference" />
+        <attr name="spbCenterBackgroundImage" format="reference" />
+        <attr name="spbRadialWidth" format="dimension" />
+        <attr name="spbBackgroundRadialColor" format="color" />
+        <attr name="spbForegroundRadialColor" format="color" />
+        <attr name="spbOuterCircleColor" format="color" />
+        <attr name="spbOuterCircleWidth" format="dimension" />
+        <attr name="spbProgress" format="integer" />
+    </declare-styleable>
+
+</resources>

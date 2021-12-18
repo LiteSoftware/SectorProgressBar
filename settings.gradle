@@ -1,0 +1,6 @@
+rootProject.name = "SectorProgressBar"
+
+include ':SectorProgressBarLib'
+
+if (!System.env.JITPACK)
+    include ':sample'
