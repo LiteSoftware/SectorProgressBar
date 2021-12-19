@@ -1,5 +1,6 @@
 # SectorProgressBar
 Sector progress bar
+
 You can visually see the use of this library on [Google Play](https://play.google.com/store/apps/details?id=com.litesoftteam.phonecleaner)
 
 [![](https://jitpack.io/v/LiteSoftware/SectorProgressBar.svg)](https://jitpack.io/#LiteSoftware/SectorProgressBar)
