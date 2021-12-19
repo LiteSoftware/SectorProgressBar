@@ -13,10 +13,10 @@ Add view to your layout:
     android:id="@+id/progressView"
     android:layout_width="190dp"
     android:layout_height="190dp"
-    app:rcpCenterBackgroundImage="@drawable/ic_radial_circular_progress_background"
-    app:rcpCenterForegroundImage="@drawable/ic_rocket"
-    app:rcpOuterCircleWidth="4dp"
-    app:rcpProgress="60" />
+    app:spbCenterBackgroundImage="@drawable/ic_radial_circular_progress_background"
+    app:spbCenterForegroundImage="@drawable/ic_rocket"
+    app:spbOuterCircleWidth="4dp"
+    app:spbProgress="60" />
 ```
 
 Than find it in code and set progress:
